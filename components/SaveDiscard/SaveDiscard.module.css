@@ -1,0 +1,10 @@
+.btns {
+    position: fixed;
+    top: 80%;
+    left: 90%;
+    z-index: 1;
+}
+
+.btn {
+    margin: 5% 10%;
+}

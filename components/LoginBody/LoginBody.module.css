@@ -1,0 +1,60 @@
+.header {
+    margin-top: 7%;
+    margin-bottom: 4%;
+    text-align: center;
+}
+
+.login {
+    display: flex;
+    margin: 2% 8%;
+    align-items: center;
+}
+
+.login > * {
+    flex: 1;
+    height: 350px;
+}
+
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.loginLinks {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* border-left: 0.2rem solid black; */
+}
+
+.continueBtn {
+    padding: 2%;
+    margin: 0 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btnText {
+    width: 80%;
+}
+
+.loginFormDiv {
+    max-width: 80%;
+}
+
+.cantLogin {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.loginBtn {
+    /* font-size: large; */
+    width: 40%;
+}
+
+.loginBtnDiv {
+    margin-top: 7%;
+    display: flex;
+    justify-content: center;
+}

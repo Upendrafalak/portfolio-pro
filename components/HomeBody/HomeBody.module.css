@@ -1,0 +1,17 @@
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10rem 5rem;
+    flex-wrap: wrap;
+}
+
+.img {
+    flex: 1;
+    min-width: 350px;
+}
+
+.text {
+    flex: 1;
+    min-width: 350px;
+}
